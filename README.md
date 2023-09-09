@@ -4,6 +4,7 @@
 - My image
 - Name
 - Student ID
+- Student status
 - Passion
 ### Contact
 - Github
