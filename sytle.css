@@ -11,23 +11,24 @@
      padding: 40px;
    }
    
-   .text {
-     font-size: 20px;
-   }
+.text {
+    font-size: 20px;
+}
 #heading{
-    font-size: 35px;
+    font-size: 36px;
     font-weight: bold;
     font-family: cursive;
     text-transform: capitalize;
     text-align: center;
     width: 100%;
-    height: 150px;
     top: 0px;
+    height: 150px;
     margin-top: 0px;
     margin-right: 0px;
-    background-color: #FFF3DA;
+    background-color: #f6d9d7; 
     background-size:cover;
-
+    /* #f7e9cc */
+    /* #f6d9d7 */
 }
 #medium{
     font-size: 25px;
@@ -38,4 +39,20 @@
     font-size: 18px;
     font-weight: lighter;
     font-family: cursive;
+}
+#bottom{
+    font-size: 25px;
+    font-family: cursive;
+    font-weight: bold;
+    text-transform: lowercase;
+    text-align: center;
+}
+.bottompage{
+    width: 100%;
+    height: 150px;
+    bottom: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    background-color: #f8eec3;
+    background-size:cover;
 }
