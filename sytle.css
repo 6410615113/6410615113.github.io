@@ -14,6 +14,10 @@
 .text {
     font-size: 20px;
 }
+/* .line {
+  border-right: 2px solid rgb(0, 0, 0);
+  padding-right: 50%;  
+} */
 #heading{
     font-size: 36px;
     font-weight: bold;
@@ -41,7 +45,7 @@
     font-family: cursive;
 }
 #bottom{
-    font-size: 25px;
+    font-size: 24px;
     font-family: cursive;
     font-weight: bold;
     text-transform: lowercase;
